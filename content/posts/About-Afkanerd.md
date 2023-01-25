@@ -1,10 +1,18 @@
-+++
-title = "Markdown Syntax"
-date = "2020-05-11"
-description = "Markdown Syntax test page"
-tags = ["markdown", "css", "html", "themes"]
-draft = true
-+++
+---
+title: "About Afkanerd"
+date: 2023-01-24T12:58:47+01:00
+draft: false
+---
+
+# Afkanerd Things
+
+![Afkanerd logo](/apple-touch-icon.png 'Afkanerd Logo')
+<!--more-->
+Afkanerd is an idea, the idea being "We code for the people". The ideology evolved from the believe in human rights, freedom of speech and expression.
+
+More about us on our [official website](https://afkanerd.com/#about).
+
+<!--Markdown syntax-->
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
