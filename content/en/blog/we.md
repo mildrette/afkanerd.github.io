@@ -4,7 +4,7 @@ title: "swob"
 date: 2023-02-02
 description: "A product of afkanerd"
 tags: ["shortcodes", "privacy"]
-thumbnail: /who.jpeg
+thumbnail: /logi.png
 ---
 
 # smswithoutborders

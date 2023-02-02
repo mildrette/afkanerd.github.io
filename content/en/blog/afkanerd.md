@@ -4,7 +4,7 @@ title: "who are we"
 date: 2023-02-02
 description: "what to know about Afkanerd"
 tags: ["afkanerd"]
-thumbnail: /logi.png
+thumbnail: /who.jpeg
 ---
 we code to the people.
 
