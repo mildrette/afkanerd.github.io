@@ -13,15 +13,14 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Welcome to Afkanerd's Blog"
       introSubtitle = "Afkanerd is and idea, the idea being We code for the people. The ideology evolved form the believe in human rights, freedom fo speech nd expression."
-      introPhoto = "/logo.png"
-      logo = "/favicon.ico"
+      introPhoto = ""
+      logo = "/logo.png"
 
-        [[languages.en.menu.main]]
+    [[languages.en.menu.main]]
         name = "Blog"
-        url = "Blog"
+        url = "blog"
         weight = 1
 
-  
     [[languages.en.menu.main]]
         name = "About"
         url = "https://afkanerd.com"
@@ -34,33 +33,9 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "Top Post"
-        url = "/en/blog/emoji-support/"
+        url = "/en/blog/swob/"
         weight = 4
 
-  [languages.fr]
-    contentDir = "content/fr" #French
-    weight = 1
-    languageName = "Français"
-    [languages.fr.params]
-      introTitle = "Bienvenue sur le Blog d'afkanerd"
-      introSubtitle = "Afkanerd est une idee, l'idee etant Nous codons pour le peuple. L'ideologie a evolue a partir de la croyance dans les droits de l'homme, la liberte de parole et d'expression."
-      introPhoto = "/logo.png"
-      logo = "/favicon.ico"
-     [[languages.fr.menu.main]]
-        name = "blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.fr.menu.main]]
-        name = "À propos"
-        url = "https://afkanerd.com"
-        weight = 2
-
-    [[languages.fr.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-        
 
 [params]
   # Enable the darkmode toggle in header
@@ -84,8 +59,8 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Afkanerd"
-  favicon = "/caret.png"
+  copyright = "Afkanerd InfoTec"
+  favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors

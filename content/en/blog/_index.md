@@ -1,4 +1,4 @@
 ---
-author: Afkanerd
+author: Katheryn Fox
 title: Blog
 ---

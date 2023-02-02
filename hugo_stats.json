@@ -12,11 +12,12 @@
       "footer",
       "h1",
       "h2",
+      "h3",
+      "h4",
       "h5",
       "head",
       "header",
       "html",
-      "iframe",
       "img",
       "input",
       "li",
@@ -28,6 +29,7 @@
       "p",
       "path",
       "polyline",
+      "pre",
       "rect",
       "script",
       "section",
@@ -118,7 +120,6 @@
       "mobile-menu",
       "mobile-menu-button",
       "mr-1",
-      "mr-2",
       "mt-16",
       "mt-2",
       "mt-4",
@@ -190,8 +191,10 @@
     "ids": [
       "TableOfContents",
       "a",
-      "how-it-works",
-      "smswithoutborders"
+      "here-are-some-steps-to-synchronize-your-swob-account",
+      "stay-connected",
+      "swob-has-the-following-characteristics",
+      "to-download-swob-click-on-the-link-below"
     ]
   }
 }
