@@ -15,6 +15,12 @@ DefaultContentLanguageInSubdir = true
       introSubtitle = "Afkanerd is and idea, the idea being We code for the people. The ideology evolved form the believe in human rights, freedom fo speech nd expression."
       introPhoto = "/logo.png"
       logo = "/favicon.ico"
+
+        [[languages.en.menu.main]]
+        name = "Blog"
+        url = "Blog"
+        weight = 1
+
   
     [[languages.en.menu.main]]
         name = "About"
@@ -40,6 +46,10 @@ DefaultContentLanguageInSubdir = true
       introSubtitle = "Afkanerd est une idee, l'idee etant Nous codons pour le peuple. L'ideologie a evolue a partir de la croyance dans les droits de l'homme, la liberte de parole et d'expression."
       introPhoto = "/logo.png"
       logo = "/favicon.ico"
+     [[languages.fr.menu.main]]
+        name = "blog"
+        url = "blog"
+        weight = 1
 
     [[languages.fr.menu.main]]
         name = "À propos"
