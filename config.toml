@@ -1,6 +1,6 @@
 baseurl = "https://afkanerd.github.io"
 metaDataFormat = "yaml"
-title = "Afkanerd's Blog"
+title = "Afkanerd"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -11,11 +11,10 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Welcome to Afkanerd's Blog"
-      introSubtitle = "Afkanerd is and idea, the idea being We code for the people. The ideology evolved form the believe in human rights, freedom fo speech nd expression."
-      introPhoto = ""
+      introTitle = "Afkanerd Blog"
+      introSubtitle = "Afkanerd is an idea, The idea being We code for the people. This ideology evolves from the believe in human rights, freedom of speech, and expression."
+      introPhoto = "/tech.svg"
       logo = "/logo.png"
-
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -23,19 +22,13 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "About"
-        url = "https://afkanerd.com"
+        url = "https://Afkanerd.com"
         weight = 2
 
     [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
         weight = 3
-
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/swob/"
-        weight = 4
-
 
 [params]
   # Enable the darkmode toggle in header
@@ -59,7 +52,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Afkanerd InfoTec"
+  copyright = "Afkanerd.com"
   favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -113,7 +106,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow Us"
-  description = "We code for the People"
+  description = ""
 
   [[params.homepage.social.icons]]
     website = "twitter"
@@ -121,13 +114,11 @@ DefaultContentLanguageInSubdir = true
 
   [[params.homepage.social.icons]]
     website = "linkedin"
-    url = "https://www.linkedin.com/company/afkanerd/"
- 
+    url = "https://www.linkedin.com/company/afkanerd?original_referer=https%3A%2F%2Fwww.google.com%2F"
+
   [[params.homepage.social.icons]]
     website = "github"
-    url = "https://github.com/Afkanerd"
-
- 
+    url = "https://github.com/afkanerd"
 
 [[menu.main]]
   name = "About"
