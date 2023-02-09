@@ -1,25 +1,13 @@
 ---
 author: "Swob"
-title: "Swob"
+title: "SmsWithoutBorders(SWOB)"
 date: 2023-02-07
 description: "What to know about SWOB"
-tags: ["Swob"]
+tags: ["SWOB"]
 thumbnail: /index.jpeg
 ---
 
- 
-<!-----
-author: "Swob"
-title: "Swob logo"
-image: "/index.jpeg"
-draft: false
-date: 2023-02-07
-description: "Image Test"
-tags: ["Swob"]
-archives: ["2023/07"]
----
--->
-### Stay connected With [SmswithoutBorders](https://SmsWithoutBorders.com)
+### Stay connected With [SmsWithoutBorders](https://SmsWithoutBorders.com) SWOB
 
  We hardly know when we are going to find ourselves without an internet connection;
 Whether in an event, in school, traveling to a new place or migrating to a remote area, natural disaster, in a protest, etc.
@@ -45,6 +33,6 @@ Messages in SWOB are sent securely through a network of SMS gateways to stay con
 <!---->
 #### To download SWOB, click on the link below:
 
-<!--<img src="https://lh3.googleusercontent.com/cmTwCM3O3B0MEUP2FTG3DxBi86XNlDJwmCnWoDwSu3WAf9fIkyUTLRL2bs0MdwK-llQjnPt9RaK-wqtcAHiXsPVPWp6i87M8mRj7DPw_"  width="5%" height="5%" alt="Smswithoutborders.com" width="5%" height="5%" style="float: left; margin: 10px;">-->  <https://play.google.com/store/apps/details?id=com.afkanerd.sw0b>
-
-<!--<img src="https://lh3.googleusercontent.com/B91M1UvgGqOmnXjWd6oqseC0xJPoHRon_0ziel-9TmjYlCu9w4If-QmN8tlZesb5ckImP_Vhb_QcDJJfYdB9BNm84rSOY7wTe3l3hqLCLA"   alt="Smswithoutborders.com" width="5%" height="5%" style="float: left; margin: 10px;">-->   <https://smswithoutborders.com>
+![](/)<https://play.google.com/store/apps/details?id=com.afkanerd.sw0b>
+<!---->
+![](/)<https://smswithoutborders.com>
