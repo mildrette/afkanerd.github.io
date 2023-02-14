@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Afkanerd Blog"
-      introSubtitle = "Afkanerd is an idea, The idea being We code for the people. This ideology evolves from the believe in human rights, freedom of speech, and expression."
-      introPhoto = "/tech.svg"
+      introSubtitle = "The official blog feed for the top news, ideas, and releases from Afkanard Technologies. Grab a cup of coffee because there's a lot to read"
+      introPhoto = "/pic5.svg"
       logo = "/logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
