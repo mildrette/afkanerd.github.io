@@ -20,7 +20,6 @@ Messages in SWOB are sent securely through a network of SMS gateways to stay con
 
   ### SWOB has the following characteristics:
 
-
   - It is secure. SWOB uses hybrid encryption to provide a secure means of communication.
   - It is open source. Our code base is available on GitHub and is open to contributions from the public.
   - It does not collect any additional information other than the access granted by the user. SWOB does not share user information with third parties or use it for commercial purposes.
