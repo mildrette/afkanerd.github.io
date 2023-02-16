@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Afkanerd Blog"
-      introSubtitle = "The official blog feed for the top news, ideas, and releases from Afkanard Technologies. Grab a cup of coffee because there's a lot to read"
+      introSubtitle = "The official blog feed for the top news, ideas, and releases from Afkanard Technologies. Grab a cup of coffee because there's a lot to read."
       introPhoto = "/pic5.svg"
       logo = "/logo.png"
     [[languages.en.menu.main]]
